@@ -25,7 +25,7 @@
         <a class="nav-link" href="#contacto">Contacto</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Acerca de Nosotros</a>
+        <a class="nav-link" href="http://localhost/docufacil/info.php">Acerca de Nosotros</a>
       </li>
     </ul>
   </div>
